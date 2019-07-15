@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#EC6D65</color>
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="coloryellow">#D8F80909</color>
+    <color name="mango">#81EC4545</color>
+    <color name="save">#DA3E3E</color>
+</resources>

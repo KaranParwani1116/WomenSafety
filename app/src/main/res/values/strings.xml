@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WomenSafety</string>
+    <string name="siren">Siren Voice</string>
+    <string name="update_settings">update settings</string>
+    <string name="SettingsText">Please add Your Emergency Details</string>
+    <string name="Number1">Enter Phone Number 1</string>
+    <string name="Number2">Enter Phone Number 2</string>
+    <string name="Email">Enter Email Address</string>
+    <string name="Message">Enter Your Measage Here</string>
+    <string name="save">Save</string>
+    <string name="DefaultText">Please Help Me I Am in Trouble Contact Me as Soon As Possible</string>
+
+    <string name="Exit">Exit</string>
+    <string name="Exit_Message">Are you sure,you want to exit?</string>
+</resources>
